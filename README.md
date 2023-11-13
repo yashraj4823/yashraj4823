@@ -1,3 +1,5 @@
+![logo](https://github.com/yashraj4823/yashraj4823/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm YASH RAJ SINGH</h1>
 <h3 align="center">A passionate Tech Enthusiasts.I'm a Computer Science Engineering student at Chandigarh Group of Colleges.</h3>
 
